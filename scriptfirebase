@@ -1,0 +1,29 @@
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/11.9.1/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/11.9.1/firebase-analytics.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyB0MVyzSGYRRiWd8OE1TN2jnnDnAJhCjxE",
+    authDomain: "game-3d8df.firebaseapp.com",
+    projectId: "game-3d8df",
+    storageBucket: "game-3d8df.firebasestorage.app",
+    messagingSenderId: "424547114956",
+    appId: "1:424547114956:web:4af798eb128e8cb6e70769",
+    measurementId: "G-L0N9X2FW2X"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
+
+
+anona   :   eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imljb3FreXV3bGhqbmVjemlxZ3dqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE4ODg2NjksImV4cCI6MjA2NzQ2NDY2OX0.ywAl3gZ56ddAejRBreKn_r_LOwD7Vf6wSk1ndVoZS24
+
+secret:  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imljb3FreXV3bGhqbmVjemlxZ3dqIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MTg4ODY2OSwiZXhwIjoyMDY3NDY0NjY5fQ.ZjvqjInYVZukXzNCDaw0q21nigVdboNSkY4dyhM94UA
