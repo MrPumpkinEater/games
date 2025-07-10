@@ -670,3 +670,5 @@ window.onload = async () => {
 
 // Expose shareScore globally
 window.shareScore = shareScore;
+
+window.createChallengeRoom = createChallengeRoom;
